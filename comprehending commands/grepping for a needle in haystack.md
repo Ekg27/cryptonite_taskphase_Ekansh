@@ -5,6 +5,6 @@ hacker@commands~grepping-for-a-needle-in-a-haystack:~$ grep pwn.college /challen
 pwn.college{UuR_yjH0SJa0-MN1uoAvY_uZXnP.ddTM4QDL3kzN0czW}
 ```
 ## Learning:
- I learnt how to use cat in linux
+ I learnt how to use grep in linux
 ## References:
  did on my own
