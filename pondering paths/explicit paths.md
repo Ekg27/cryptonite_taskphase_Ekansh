@@ -1,4 +1,4 @@
-# Implicit paths
+# Explicit paths
 ## Code:
 ```bash
 Correct!!!
