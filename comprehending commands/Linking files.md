@@ -12,6 +12,6 @@ About to read out the /home/hacker/not-the-flag file!
 pwn.college{MbWKVsya6drFXgkxnir-_5laFsf.dlTM1UDL3kzN0czW}
 ```
 ## Learning:
- I learnt how to find link files in linux
+ I learnt how to use ln -s in linux
 ## References:
  did on my own
