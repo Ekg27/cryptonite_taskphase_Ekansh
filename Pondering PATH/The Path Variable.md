@@ -1,4 +1,4 @@
-# Pondering PATH
+# The Path Variable
 ## Code:
 ```bash
 hacker@path~the-path-variable:~$ PATH=""
